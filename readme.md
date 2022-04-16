@@ -1,0 +1,1 @@
+You can see the project via this link: https://nikolassnorkell.github.io/simple-calc/
